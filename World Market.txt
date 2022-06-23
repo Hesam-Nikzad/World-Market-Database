@@ -1,0 +1,44 @@
+price_usd_nerkhapi_D,دلار
+price_eur_D,یورو
+price_aed_D,درهم امارات
+price_cad_D,دلار کانادا
+price_cny_D,یوان چین
+sana_sell_eur_D,یورو سنا
+mesghal_old_D,مثقال طلا
+geram18_D,گرم طلای 18 عیار
+geram24_D,گرم طلای 24 عیار
+seke_bahar_D,سکه بهار آزادی
+sekee_emami_old_D,سکه امامی
+nim_D,نیم سکه
+rob_D,ربع سکه
+gerami_D,سکه  گرمی
+price_try_D,لیر ترکیه
+Iron Ore_D,سنگ آهن
+Steel wire rod_D,مفتول فولاد
+Zinc_D,روی قیمت جهانی
+Tin_D,قلع
+Aluminum_D,آلومینیوم
+Nickel_D,نیکل
+Lead_D,سرب
+Copper_D,مس قیمت جهانی
+Ons_D,طلا انس جهانی
+Silver_D,نقره
+Coal_D, ذغال سنگ
+Ethanol_D,اتانول
+Sugar_D,شکر
+Natural Gas-Rials_D,گاز طبیعی ریالی
+Brent Oil-Rials_D,نفت برنت ریالی
+Nickel-Rials_D,نیکل برنت ریالی
+tgju_price_dollar_rl_D,دلار رسمی
+tgju_sekee_D,سکه امامی رسمی
+tgju_sekeb_D,سکه بهار آزادی رسمی
+tgju_gold_melted_wholesale_D,آبشده بنکداری رسمی
+tgju_gold_futures_D,آبشده نقدی رسمی
+tgju_gold_world_futures_D,آبشده کمتر از کیلو رسمی
+tgju_bitcoin_D,Bitcoin
+tgju_crypto-ethereum_D,Ethereum
+tgju_crypto-eos_D,EOS
+tgju_crypto-ripple_D,Ripple
+tgju_crypto-bitcoin-cash_D,Bitcoin cash
+tgju_crypto-cardano_D,Cardano
+tgju-crypto-litecoin_D,Litecoin
