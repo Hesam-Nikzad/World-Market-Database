@@ -23,7 +23,7 @@ Lead_D,سرب
 Copper_D,مس قیمت جهانی
 Ons_D,طلا انس جهانی
 Silver_D,نقره
-Coal_D, ذغال سنگ
+Coal_D,ذغال سنگ
 Ethanol_D,اتانول
 Sugar_D,شکر
 Natural Gas-Rials_D,گاز طبیعی ریالی
