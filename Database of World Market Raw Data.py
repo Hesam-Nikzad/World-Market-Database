@@ -86,7 +86,7 @@ for item in Name2Address:
     Date = Start_Date_Finder(Name, Date_Start)
     print(Name, Date)
     
-    while Date <= Date_Stop:
+    while Date < Date_Stop:
 
         Market_Date_Info = []
 
